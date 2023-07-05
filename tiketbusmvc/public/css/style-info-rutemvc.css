@@ -1,0 +1,115 @@
+.menu_ats{
+    background: rgba(0,0,0,0.3);
+    margin-top: -105px;
+}
+
+.menu_ats ul{
+    padding: 14px;
+    text-align: left;
+    padding-left: 320px;
+}
+
+.menu_ats li{
+    list-style: none; 
+    display: inline;
+    margin-left: 35px;
+    border-radius: 3px;
+    height: 5px;
+    width: 7px;
+}
+
+.bck_home input{
+    background-color: orange;
+    border-color: transparent;
+    height: 20px;
+    width: 150px;
+    border-radius: 6px;
+
+}
+
+.bck_home input[type="button"]:hover{
+    background-color: gray;
+}
+
+.rute1 iframe{
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+.halte1{
+    margin-top: -300px;
+}
+
+.halte1 p{
+    color: white;
+    font-size: large;
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -480px;
+    margin-left: 140px;
+}
+
+.halte1 img{
+    position: relative;
+    width: 250px;
+    height: 200px;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+.halte2 p{
+    color: white;
+    font-size: large;
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+    margin-left: 140px;
+
+}
+
+.halte2 img{
+    position: relative;
+    width: 250px;
+    height: 200px;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+.to_tiket input{
+    background-color: orange;
+    border-color: transparent;
+    height: 20px;
+    width: 150px;
+    border-radius: 6px;
+
+}
+
+.to_tiket input[type="button"]:hover{
+    background-color: gray;
+}
+
+.menu-rute{
+    background: rgba(0,0,0,0.3);
+    margin-top: -105px;
+    }
+    ul{
+    padding: 14px;
+    text-align: left;
+    padding-left: 250px;
+    }
+    li{
+    list-style: none; 
+    display: inline;
+    margin-left: 35px;
+    border-radius: 3px;
+    height: 5px;
+    width: 7px;
+    }
+    a{
+    height: 30px;
+    width: 20px;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+    }
+    

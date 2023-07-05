@@ -1,0 +1,84 @@
+/* STYLE BAGIAN CONTENT INDEX ADMIN !! */
+
+.content-admin .sambutan{
+    text-align: center;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    color: white;
+    background-color: rgba(0,0,0,0.4);
+    padding-top: 55px;
+    padding-right: 10px;
+    margin-top: 45px;
+    margin-left: 1px;
+    height: 530px;
+}
+.gambar1{
+    height: 200px;
+    width: 300px;
+    margin-top: -600px;
+    margin-bottom: 170px;
+    margin-left: 30px;
+    box-shadow: 7px 7px 7px red;
+}
+.gambar2{
+    height: 200px;
+    width: 300px;
+    margin-top: -600px;
+    margin-bottom: 187px;
+    margin-left: 840px;
+    box-shadow: 7px 7px 7px red;
+}
+.gambar3{
+    height: 250px;
+    width: 325px;
+    margin-top: -600px;
+    margin-bottom: 205px;
+    margin-left: 425px;
+    box-shadow: 7px 7px 7px red;
+}
+.gambar4{
+    position: absolute;
+    margin-top: -835px;
+    margin-left: 880px;
+}
+
+/* /////////////////////////////////////////////// */
+
+.header-indxadmin h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: left;
+    font-size: 30px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color: white;
+    background: rgba(0,0,0,0.6);
+}
+
+.menu-indxadmin{
+    background: rgba(0,0,0,0.3);
+    margin-top: -105px;
+    }
+    ul{
+    padding: 14px;
+    text-align: left;
+    padding-left: 250px;
+    }
+    li{
+    list-style: none; 
+    display: inline;
+    margin-left: 35px;
+    border-radius: 3px;
+    height: 5px;
+    width: 7px;
+    }
+    a{
+    height: 30px;
+    width: 20px;
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+    }

@@ -1,0 +1,52 @@
+/* STYLE INFORMASI RUTE !!! */
+ /*style-css-rute */
+ h1 {
+    margin-top: 5%;
+    color: white;
+    font-size: 40px;
+}
+
+table {
+    width: 50%;
+}
+
+thead {
+    background: grey;
+}
+
+tbody {
+    background: white;
+}
+
+.menu li{
+    margin-left: 80px;
+}
+/* Header rute */
+
+.header-rute h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: left;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding-left: 25px;
+    padding-top: 40px;
+    padding-bottom: 45px;
+    color: white;
+}
+
+/* background hitam transparan pada content rute.php*/
+.content{
+    background-color: rgba(0,0,0,0.3);
+    padding-top: 1px;
+    padding-left: 190px;
+    margin-top: -542px;
+    margin-right: 1px;
+    height: 535px;
+}
+
+.img-bg-rute{
+    margin-top: -33px;
+    margin-left: -10px;
+}
+

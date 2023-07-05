@@ -1,0 +1,123 @@
+/* STYLE CSS FORM INPUTAN LOGIN ADMIN !!!!! */
+
+.menu_login{
+    background-color: rgba(0,0,0,0.3);
+    padding-top: 50px;
+    padding-left: 540px;
+    margin-top: 50px;
+    height: 530px;
+    }
+
+    .nama_user{
+    margin-top: 100px;
+    margin-left: 245px;
+    }
+
+    .nama_user p{
+    color: white;
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    }
+
+    .nama_user input{
+    height: 20px;
+    width: 180px;
+    border-radius: 7px;
+    border: transparent;
+    } 
+
+    .password{
+    position: relative;
+    margin-top: 0px;
+    margin-left: 245px;
+    }
+
+    .password p{
+    color: white;
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    }
+
+    .password input{
+    height: 20px;
+    width: 180px;
+    border-radius: 7px;
+    border: transparent;
+    }
+
+    .login{
+    margin-top: 50px;
+    margin-left: 240px;
+    }
+    .login input{
+    width: 200px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 10px;
+    border: transparent;
+    }
+    .login input[type="submit"]:hover{
+    background-color: rgba(0,0,0,0.2);
+    }
+    .report{
+        padding-left: 272px;
+        font-style: normal;
+        font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+        color: white;
+    }
+
+/* /////////////////////////////////////////*/
+
+    .logo-sby2{
+        position: absolute;
+        width: 20px;
+        height: 10px;
+        margin-top: -730px;
+        margin-left: 880px;
+    }
+    .anime{
+        position: absolute;
+        margin-top: -545px;
+        margin-left: 1px;
+    }
+
+    /* style untuk nav form */
+    article{
+        background-repeat: no-repeat;
+        position: relative;
+        margin-top: -660px;
+        margin-left: 165px;
+        margin-right: -8px;
+        margin-bottom: -170px;
+        width: -670px;
+        height: 670px;
+        }
+
+
+     /* Style untuk Menu */
+     .header-signadmin{
+        background: rgba(0,0,0,0.3);
+        margin-top: -110px;
+        }
+        ul{
+        padding: 14px;
+        text-align: center;
+        padding-left: 250px;
+        }
+        li{
+        list-style: none; 
+        display: inline;
+        margin-left: 35px;
+        border-radius: 3px;
+        height: 5px;
+        width: 7px;
+        }
+        a{
+        height: 30px;
+        width: 20px;
+        color: white;
+        font-size: 14px;
+        font-family: sans-serif;
+        }
